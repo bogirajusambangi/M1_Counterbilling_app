@@ -37,8 +37,8 @@
 | 1   | Add new customer data            |
 | 2   | Search customer data           |
 | 3   |  Display customer data            |
-| 4   | store Huge number of Customers data
-| 5   |  tells customer type like defaulter or regular |  
+| 4   | Store Huge number of Customers data
+| 5   |  Tells customer type like defaulter or regular |  
    
 ## Low level requirement
 |LLR | DESCRIPTION |
