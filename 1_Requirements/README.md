@@ -39,6 +39,8 @@
 ## Low level requirement
     - Humans needs to enter the field asked in console
     - Displays the greetings after completion of Bills.
+# Best Methods
+    - I followed the File System to keep data of customers.
 
 
 
