@@ -1,7 +1,7 @@
 # Discription
 * Counter billing system is simple `C-Programming` based console Application we can use in any shops where supplier can keep track their customers payment installments.
 * We can use this application to keep the records such as name, address, mobile number, paid amount, due amount, payment dates etc we can add new customer According to our Requirments.
-# 4W's & 1H
+# 5W's & 1H
 ## What 
     - It is Counter billing system used in billing counter to generate bills.
     - It stores the record of customers it will be useful further to do business.
@@ -32,13 +32,22 @@
     - Other Big players in market with Advanced systems and good UI interface
 # Requirements
 ## High level requirement
-    - We can store Huge number of Customers data in Software.
-    - It is Possible to build a compact Device Based on this Software
-    - It keep records and tells customer type like defaulter or regular.
-    - We can search the data by entering fields asked in console
+|HLR  | DESCRIPTION |
+|-----|-------------|
+| 1   | Add new customer data            |
+| 2   | Search customer data           |
+| 3   |  Display customer data            |
+| 4   | store Huge number of Customers data
+| 5   |  tells customer type like defaulter or regular |  
+   
 ## Low level requirement
-    - Humans needs to enter the field asked in console
-    - Displays the greetings after completion of Bills.
+|LLR | DESCRIPTION |
+|-----|-------------|
+|1| Ask for name|
+|2| Ask for Phone number|
+|3|Ask Amount|
+|4| Display Greetings after billing|
+    
 # Best Methods
     - I followed the File System to keep data of customers.
 
