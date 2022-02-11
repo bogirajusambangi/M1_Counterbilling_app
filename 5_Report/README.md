@@ -50,6 +50,13 @@
     
 # Best Methods
     - I followed the File System to keep data of customers.
+# Architecture
+## Behavioural Design
+![Capture1](https://user-images.githubusercontent.com/98826655/153620527-9d60a11c-f482-4324-b71a-3179b34d1d5f.PNG)
+## Structural Design
+![Capture2](https://user-images.githubusercontent.com/98826655/153620617-97912e9d-5809-48ac-9199-36d3c8213ca7.PNG)
+
+
 
 
 
