@@ -1,5 +1,5 @@
 /**
- * @file billing_main.c
+ * @file main.c
  * @author Sambangi Bogiraju (bogirajusambangi@gmail.com)
  * @brief Project in C Language for Module 1
  * @version 0.1

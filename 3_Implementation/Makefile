@@ -1,7 +1,7 @@
 #Target: Dependencies
 #<TAB>commands
 PROJ_NAME = Counterbilling
-SRC=billing_main.c  
+SRC= main.c  
 ifdef OS
    RM = del /q
    FixPath = $(subst /,\,$1)
