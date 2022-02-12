@@ -6,3 +6,5 @@ Project in C Language for Module 1
 ![Codiga score](https://api.codiga.io/project/31230/score/svg)
 ## Code Grade - Codiga
 ![Code grade](https://api.codiga.io/project/31230/status/svg)
+## Static check
+[![C/C++ CI](https://github.com/bogirajusambangi/M1_Counterbilling_app/actions/workflows/staticcheck.yml/badge.svg)](https://github.com/bogirajusambangi/M1_Counterbilling_app/actions/workflows/staticcheck.yml)
