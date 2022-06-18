@@ -211,17 +211,17 @@
        switch(customer.acc_type)
           {
           case 'C':
-         _cprintf("CURRENT\n\n");
+         printf("CURRENT\n\n");
          break;
           case 'O':
-         _cprintf("OVERDUE\n\n");
+         printf("OVERDUE\n\n");
          break;
           case 'D':
-         _cprintf("DELINQUENT\n\n");
+         printf("DELINQUENT\n\n");
          break;
           default:
-         _cprintf(" Invalid\\n\n");
+         printf(" Invalid\\n\n");
           }
-          printf("\033[0;37m");
+         
           return;
        }
