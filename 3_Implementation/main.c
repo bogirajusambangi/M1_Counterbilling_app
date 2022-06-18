@@ -47,7 +47,7 @@
       char ch;
       system("cls");
 
-      printf("\e[?25l");
+      
       printf(" \n  COUNTER BILLING SYSTEM:\n\n");
       printf("------------------------------\n");
       printf("\n   1:To add New account on list\n");
@@ -84,12 +84,8 @@
         case '3':
             system("cls");
             printf("\n\t ***Our Valuable Customer***");
-            void gotoxy(int x, int y)
-{
-            COORD c = { 25, 25};  
-            SetConsoleCursorPosition(  GetStdHandle(STD_OUTPUT_HANDLE) , c);
-}
-            _cprintf("\n\t    *Thank you & Vist Again*");
+           
+            printf("\n\t    *Thank you & Vist Again*");
             exit(1);
       }
  }
